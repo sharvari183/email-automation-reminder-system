@@ -1,0 +1,4 @@
+name,email,subject,status,timestamp
+Rahul,rahul@example.com,Meeting Reminder,SUCCESS,2026-05-17 13:07:30.375587
+Priya,priya@example.com,Assignment Reminder,SUCCESS,2026-05-17 13:07:30.377063
+Amit,amit@example.com,Payment Reminder,SUCCESS,2026-05-17 13:07:30.378055
